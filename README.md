@@ -1,8 +1,8 @@
 # hugo-website-acavar
 
-An academic variant of [hugo-website](https://github.com/pmichaillat/hugo-website): a dark, minimalist personal academic site.
+A template for an academic's personal website - dark and minimalist. Built with [Hugo](https://gohugo.io/) from Pascal Michaillat's [hugo-website](https://github.com/pmichaillat/hugo-website) template and the [PaperMod](https://github.com/adityatelange/hugo-PaperMod) theme (both MIT; see `LICENSE.md` and `themes/PaperMod/LICENSE`).
 
-Personal academic website, built with [Hugo](https://gohugo.io/) from Pascal Michaillat's [hugo-website](https://github.com/pmichaillat/hugo-website) template and the [PaperMod](https://github.com/adityatelange/hugo-PaperMod) theme (both MIT; see `LICENSE.md` and `themes/PaperMod/LICENSE`).
+It is live at: [https://spoldov.github.io/hugo-website-acavar/](https://spoldov.github.io/hugo-website-acavar/)
 
 Every push to `main` rebuilds and publishes the site through GitHub Actions (`.github/workflows/hugo.yml`).
 
